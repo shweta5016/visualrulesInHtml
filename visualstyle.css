@@ -1,0 +1,103 @@
+.head{
+	padding:40px;
+}
+
+body{
+ 	background:linear-gradient(-45deg, #35577D, #141E30);
+  	margin: 0;
+  	padding: 0;
+}
+
+#firstp{
+	color:white;
+	padding-top:40px;
+	margin:20px;
+}
+
+
+h1{
+  color: grey;
+  font-size: 2em;
+  padding-top: 50px;
+  width: 100%;
+text-align:center;
+}
+
+#last{
+	color:white;
+ 	padding: 40px;
+  	text-align: center;
+  	width: 400px;
+}
+
+.past{
+	text-transform:uppercase;
+	border:1px solid LightGrey;
+	padding:50px 0px;
+	text-align:center;
+	width:100%;
+	position:relative;
+}
+
+.past a{
+border:1px solid red;
+background:red;
+border-radius:5px;
+color:white;
+display:inline-block;
+text-decoration:none;
+}
+
+h2{
+padding bottom:40px;
+border:1px dotted red;
+color:yellow;
+text-align:center;
+line-height:100%;
+font-size:45px;
+}
+
+.banner{
+background-image:url("C:\Users\Nirav solanki\Desktop\website\garden.jpg");
+background-size:cover;
+ background-position: bottom center;
+  height: 700px;
+  width: 100%;//
+}
+
+.banner h1{
+
+ position: absolute;
+  top: 50px;
+  width: 400px;
+  margin: 0 auto;
+
+}
+
+.past a:hover{
+background:white;
+color:red;
+border:1px solid red 
+}
+
+.firstp{
+padding:20px;
+}
+
+.banner {
+background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
+background-position:bottom center;
+padding:100px 100px 20px 10px; 
+height:300px;
+width:400px;
+color:white;
+text-align:center;
+}
+
+
+
+
+
+
+
+
